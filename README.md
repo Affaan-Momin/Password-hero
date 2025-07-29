@@ -18,8 +18,6 @@ A fun and interactive password game built using **Pygame**. Designed to challeng
 
 - **Python 3.x**
 - **Pygame**
-- Optional: **Pygbag** for web deployment
-
 ---
 
 ## 🚀 How to Run Locally
