@@ -1,13 +1,12 @@
-
-import pygame
 import random
 import sys
+import pygame
 
 # Initialize pygame
 pygame.init()
 
 # Screen setup
-WIDTH, HEIGHT = 600, 400
+WIDTH, HEIGHT = 1000, 700
 win = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Password Hero")
 
@@ -117,4 +116,4 @@ while running:
     clock.tick(60)
 
 pygame.quit()
-sys.exit()
+sys.exit() 
